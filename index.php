@@ -16,6 +16,9 @@
   <li><a href="2/cycle.php">Cycle</a></li>
   <li><a href="2/function.php">Function</a></li>
   <li><a href="2/cut_text.php">Cut text</a></li>
+  <li><a href="3/data.php">Date & time</a></li>
+  <li><a href="3/buffer.php">Buffer</a></li>
+  <li><a href="3/xxs.php">xxs</a></li>
 </ul>
 
 </body>
