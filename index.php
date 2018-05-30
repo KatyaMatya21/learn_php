@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>PHP Time или <i>Полевые заметки</i></h1>
+<h1>PHP Time</h1>
 
 <ul>
   <li><a href="1/sayhello.php">Hello</a></li>
